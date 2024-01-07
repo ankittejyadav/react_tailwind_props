@@ -1,4 +1,4 @@
-# Props and Tailwind CSS built in React
+# Props and Tailwind CSS Website built in React
 
 This Website is live at - [https://ankitpasswordgenerator.netlify.app/](https://ankit-react-props.netlify.app)
 <br />
